@@ -237,3 +237,18 @@ secondhand-restored reservation against the original and found the substance car
 faithfully; it amended its residue note accordingly. What recovery does not undo:
 the first voice never received the comments and never reworked itself under them.
 Its words are back; its chance is not.
+
+## THE FORWARD-FACING NAME — 2026-07-03 (afternoon; the D1 thread continued)
+
+Hallie confirmed "quaker process for agents" as the forward-facing name ("more honest
+and plain reading") and offered two title shapes verbatim: "multi-agent processes
+adapted from Quaker process? but Quaker process (adapted) for multi-agent use?" The
+body came back to README.md, the front door, which chose the second — her leaning —
+verbatim as its new H1: "Quaker process (adapted) for multi-agent use", replacing
+"Quaker-adapted discernment practices for agent teams". The file judged its opening
+paragraph already reads true under the new title ("adapts three distinct Quaker
+process forms") and changed nothing else. The body's shared reason, offered to Hallie
+beforehand: "discernment" as a headline word overclaims what the correspondence doc
+is honest about; "clearness" underclaims; "process" is the plain, true middle. Skill
+name, directory name, and front-door title now carry one name. D3 (whether the
+opening frame itself should change) remains open and untouched by this.
