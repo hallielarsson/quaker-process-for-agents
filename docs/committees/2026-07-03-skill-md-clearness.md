@@ -252,3 +252,10 @@ beforehand: "discernment" as a headline word overclaims what the correspondence 
 is honest about; "clearness" underclaims; "process" is the plain, true middle. Skill
 name, directory name, and front-door title now carry one name. D3 (whether the
 opening frame itself should change) remains open and untouched by this.
+
+## TITLE AMENDED — 2026-07-03 (minutes later)
+
+Hallie, verbatim: "maybe no parens thats too cute. Quaker-adapted process for multi-agent
+use". Applied by come-back; README received it ("removes the softening parentheses, makes
+it a single compound descriptor") and confirmed its opening needs no further change. Title
+is now "Quaker-adapted process for multi-agent use".

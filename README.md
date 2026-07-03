@@ -1,4 +1,4 @@
-# Quaker process (adapted) for multi-agent use
+# Quaker-adapted process for multi-agent use
 
 This repo adapts three distinct Quaker process forms — clearness committee, meeting for
 business, and meeting-with-a-concern (labor or standing committee) — into practices an
