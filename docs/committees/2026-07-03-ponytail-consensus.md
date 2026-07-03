@@ -61,3 +61,26 @@ Hers to rule with the assumption-check below.
 - Rule on the name (ponytail-protocol vs a self-describing name) — H1 informs this.
 - Say whether the meeting should BUILD the repo (consensus was the charge; building
   is a further commission the meeting is willing to carry).
+
+## ASSUMPTION CORRECTED — 2026-07-03 (minutes later)
+
+Hallie: "there's a gh repo called ponytale, similar to grug and CAVEMAN." Verified:
+github.com/DietrichGebert/ponytail — "makes your AI agent think like the laziest senior
+dev in the room." NOT the xkcd character. Ponytail governs WHAT you build (a decision
+ladder: does it need to exist / already in codebase / stdlib / one line; "deletion over
+addition, boring over clever"); it pairs with CAVEMAN, which governs HOW you talk (terse
+prose). The commission is therefore read anew: a repo in that GENRE — an installable
+persona-skill — carrying Quaker plain speech.
+
+What survives of the consensus, unchanged: the one hard rule, the conventions, the
+fences, and the shared reason (honesty per token). What changes: the SHAPE should match
+the genre — a SKILL.md persona installable per-agent (with intensity levels and a
+persistence rule, as the genre does), not a rules-document repo. The dimension also
+clarifies: CAVEMAN holds terseness, Ponytail holds build-minimalism; the open seat in
+the family is INTEGRITY OF SPEECH — no masks, no hedge-stacking, no performed
+confidence, break register for precision. Ours would sit beside them, not replace them.
+
+H1 (naming) transforms rather than resolves: the genre's convention IS persona names
+(grug, caveman, ponytail). The in-genre persona for Quaker plain speech is a Friend.
+Candidate names for Hallie: `friend` ("makes your agent speak like a plain Friend"),
+`plainfriend`, or `plainspeak`. Hers to rule, with the build commission still open.
