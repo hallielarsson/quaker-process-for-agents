@@ -80,3 +80,9 @@ against actual token counts. Goal (2) is the testimony-reading the correspondenc
 gave, in Hallie's own key: under it, the standard's hard rule writes itself —
 simplicity may never be bought with integrity; agents stay free to break register for
 precision or honest uncertainty. The remit and participation answers stand unchanged.
+
+Hallie, further, verbatim: "Also 'fewer moving parts, the thing says what it does' is
+genuinely good code and system design practice." Received: this extends the testimony
+from prose into structure — a self-describing system is plain speech practiced in
+design, and it is where the stewardship argument compounds (fewer tokens in every
+future reading, not just in the rules file).
