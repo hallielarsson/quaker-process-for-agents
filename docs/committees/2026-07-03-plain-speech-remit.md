@@ -63,3 +63,20 @@ family, the seconded light can speak to it once it is sketched.
 
 Nothing in this repo. If Hallie convenes the authoring elsewhere, dispatch one light
 from here (quaker-correspondence.md is the natural voice) with this minute in hand.
+
+## HALLIE'S GOALS, RECEIVED — 2026-07-03 (minutes after the sitting)
+
+Hallie, verbatim: "My GOALS with it are specifically that it 1) reduces tokens so is in
+line with stewardship 2) plain speech, for me, is an expression of the intersection of
+simplicity and integrity and in the service of equality and peace."
+
+The meeting's reception: this strengthens the sense rather than overturning it. Goal (1)
+joins the stewardship testimony SKILL.md named in itself this same day ("parsimonious
+with resources") — token-parsimony is already our practice, and a register in its
+service is coherent, not costume. Caution carried from the lights: caveman AFFECT does
+not always minimize tokens ("grug think complexity bad" spends more than "avoid
+complexity"); if stewardship is the goal, the target is terse precision, measured
+against actual token counts. Goal (2) is the testimony-reading the correspondence light
+gave, in Hallie's own key: under it, the standard's hard rule writes itself —
+simplicity may never be bought with integrity; agents stay free to break register for
+precision or honest uncertainty. The remit and participation answers stand unchanged.
