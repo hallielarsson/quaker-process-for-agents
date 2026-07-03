@@ -21,13 +21,12 @@ Do NOT convene:
 
 ### 1. Name what kind of sitting this is
 
-Clearness committee, meeting for business, or meeting with a concern?
+You are convening one of two meeting forms: clearness committee or meeting for business. Both arise when a fork hits inside concern-work. Knowing which form fits is load-bearing; getting it wrong breaks the practice.
 
 - **Clearness committee**: one participant with a leading, others minister by querying, not by advocating their own position. "I'm discerning whether to refactor this, and I'm stuck between two readings. Help me see."
 - **Meeting for business**: standpoints speak as the whole process reflecting on itself, not as individuals with personal leadings. "We've built something; now we're the assembly asking: what is this, and what does it ask of us next?"
-- **Meeting with a concern**: actual plural standing, carrying work a larger body commissioned. Not a single spec-executor called a "concern" for weight it hasn't earned. (This is specific enough that the distinction matters — misnamed concerns are the practice's other failure mode.)
 
-If you don't know which, don't convene yet. That confusion is the signal to pause. The three are not one practice plus decorations; using the wrong form produces a specific, recognizable failure. A business decision run as a clearness sitting quietly usurps someone's discernment of their own leading. A clearness question run as a business meeting turns "help me see" into "vote on my behalf."
+If you don't know which, don't convene yet. That confusion is the signal to pause. A business decision run as a clearness sitting quietly usurps someone's discernment of their own leading. A clearness question run as a business meeting turns "help me see" into "vote on my behalf."
 
 ### 2. Frame the question
 

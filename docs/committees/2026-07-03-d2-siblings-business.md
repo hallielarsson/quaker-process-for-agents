@@ -77,3 +77,24 @@ The contradiction is architectural (what gets foregrounded), not factual.
 ## Buildable now
 
 Nothing further; the edits above are complete. D2 is SPENT by this minute.
+
+## D2 EXTENDED TO roles/convener.md — 2026-07-03 (afternoon staleness pass)
+
+The gathered body's staleness pass over roles/ and templates/ found two instances in
+roles/convener.md that D2's scope had not covered: (1) meeting-with-a-concern listed as a
+third kind of sitting to convene, and (2) the "not one practice plus decorations /
+produces a specific, recognizable failure" phrasing Hallie ruled out of SKILL.md. Per the
+standing rule from D1's reconciliation (even settled rulings go through the come-back),
+the body came back to convener.md rather than editing directly. The file verified both
+findings against its own full text, confirmed it comes under D2's sense, and proposed its
+own exact edits, applied verbatim: the section now names two meeting forms arising within
+concern-work; the faith-based failure line is replaced by a positive statement; the
+misnamed-concern teaching was checked and survives intact in the file's own dedicated
+section ("You cannot declare something a 'meeting with a concern' when it is actually
+spec execution"). The file's load-bearing teaching (frame-contamination, unchecked
+premise, when-not-to-convene) is untouched.
+
+The rest of the pass was clear: clerk.md, light.md, recording-clerk.md, concern-carrier.md,
+both templates, and all three examples carry no stale framing. Light.md and the templates
+mention concern-labor as a context a light can speak in, which is consistent with the
+ground-floor frame (carriers report; they are not "convened" as a third sitting).
