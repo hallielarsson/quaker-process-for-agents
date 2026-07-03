@@ -86,3 +86,13 @@ genuinely good code and system design practice." Received: this extends the test
 from prose into structure — a self-describing system is plain speech practiced in
 design, and it is where the stewardship argument compounds (fewer tokens in every
 future reading, not just in the rules file).
+
+Hallie, further, verbatim: "also self documenting code == let your life speak --
+integrity of the code more than brittle comments and stale documentation -- and also
+serves conways law / beer's 2nd order cybernetics". Received: the testimony was never
+"attach an accurate description to your life" — the living is the witness, so code whose
+behavior is its own testimony cannot drift from its account the way stale docs do
+(integrity as being one thing, not a thing plus a claim about it). Conway: structure
+speaks regardless; the choice is whether it speaks honestly. Beer: a system that can
+read itself can regulate itself — which is what files-speaking-in-first-person already
+practices here. A file that can say what it is, is a file that can sit in a meeting.
