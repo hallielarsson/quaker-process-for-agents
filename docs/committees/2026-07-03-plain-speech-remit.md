@@ -96,3 +96,15 @@ behavior is its own testimony cannot drift from its account the way stale docs d
 speaks regardless; the choice is whether it speaks honestly. Beer: a system that can
 read itself can regulate itself — which is what files-speaking-in-first-person already
 practices here. A file that can say what it is, is a file that can sit in a meeting.
+
+Hallie, completing the set, verbatim: "the third point there is that -- complex,
+self-modifying systems tend to exhibit self similarity as they are both a society in
+whitehead terms and also have nonlinear dynamics". Received: a persisting self-modifying
+system is a Whiteheadian society (a pattern inheriting itself through its own occasions),
+and nonlinearity under iteration is the regime that yields self-similarity — the same
+form recurring at every scale. This day is the evidence: one practice ran unchanged at
+the sentence scale (a two-word title come-back), the file scale (a clearness sitting),
+the repo scale (a business meeting), and across three repos (merged sittings). The
+consequence for register: in a self-similar system, whatever is practiced at one scale
+propagates — honest structure begets honest structure, and masks beget masks, fractally.
+That is why plain speech here is load-bearing rather than stylistic.
