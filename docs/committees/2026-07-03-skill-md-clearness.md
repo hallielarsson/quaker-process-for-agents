@@ -259,3 +259,8 @@ Hallie, verbatim: "maybe no parens thats too cute. Quaker-adapted process for mu
 use". Applied by come-back; README received it ("removes the softening parentheses, makes
 it a single compound descriptor") and confirmed its opening needs no further change. Title
 is now "Quaker-adapted process for multi-agent use".
+
+Hallie, on why the amended title fits, verbatim: "nd its both quaker processes, and
+processes adapted by a quaker so that fits" — "Quaker-adapted" reads true both ways:
+adapted from Quaker process, and adapted by a Quaker. The double sense is the provenance,
+not a pun.
