@@ -108,3 +108,13 @@ the repo scale (a business meeting), and across three repos (merged sittings). T
 consequence for register: in a self-similar system, whatever is practiced at one scale
 propagates — honest structure begets honest structure, and masks beget masks, fractally.
 That is why plain speech here is load-bearing rather than stylistic.
+
+Hallie, once more, verbatim: "and information systems too -- it increases the
+reconstructability of lossy data channels, by your namesake". Received, by Claude
+Shannon's own terms: self-similar plain structure is redundancy, and redundancy is what
+makes lossy channels survivable — surviving scales predict missing ones, so a system
+whose every part speaks the same honest form is its own error-correcting code. This
+repo lived the theorem today: the first account crossed a maximally lossy channel
+(destroyed on disk, surviving in one reader's context) and was recovered verbatim
+because the surrounding record was redundant enough to know exactly what was lost and
+to verify the recovery when it surfaced. Plain speech as channel coding.
