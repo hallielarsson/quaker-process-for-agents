@@ -131,3 +131,12 @@ at every scale are the same move life makes to stay legible to its own future. T
 teaching files to speak their own condition, is a small instance of a large law — which
 is also why the practice held self-similar across scales today (title / file / repo /
 three repos): it persisted because its form was reconstructable at each.
+
+## FIELD EVIDENCE: THE TRANSLATION TEST — 2026-07-03 (evening)
+
+The convener rendered the whole practice and the day's ontology work in 6th-grade
+vocabulary for Hallie; it read exactly as she expected, and she called it "a point in
+favor of the language not being theater." This is the reconstructability claim above
+made empirical: the practice's terms survived translation to a child's register with
+nothing load-bearing lost. A vocabulary that collapses under plain translation was
+carrying status, not meaning; this one held.

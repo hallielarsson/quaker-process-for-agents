@@ -36,3 +36,10 @@ the Convener's Framing", line 35).
 
 Nothing further. The evidence for H1's placement question (D2 minute) is unaffected;
 no reader mis-framing was reported.
+
+## ADDENDUM: THREE BODIES — 2026-07-03 (evening)
+
+The practice ran a two-body joint sitting (scher + penelope-gen4, minuted in
+penelope-gen4's record) with corrections flowing both directions and no tallying.
+With this repo's own sittings, the forms held at three bodies in one day. Recorded
+as scaling evidence: the same forms, unmodified, at file, repo, and inter-repo grain.
