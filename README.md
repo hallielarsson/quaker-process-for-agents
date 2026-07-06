@@ -71,6 +71,7 @@ had to bend.
 - `docs/three-practices.md` — the dividing test between the three practices, with worked examples
 - `docs/quaker-correspondence.md` — honest mapping to real Quaker terms and where it strains
 - `docs/when-not-to-convene.md` — the anti-pattern list; when a full sitting is overhead in robes
+- `docs/committees/` — minutes and field reports from live deployments
 - `roles/` — convener, clerk, recording clerk, light (participant), concern-carrier
 - `templates/` — minutes template and light-prompt template
 - `examples/` — one full worked example per practice

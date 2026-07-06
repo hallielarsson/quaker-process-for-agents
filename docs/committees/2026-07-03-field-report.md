@@ -43,3 +43,22 @@ The practice ran a two-body joint sitting (scher + penelope-gen4, minuted in
 penelope-gen4's record) with corrections flowing both directions and no tallying.
 With this repo's own sittings, the forms held at three bodies in one day. Recorded
 as scaling evidence: the same forms, unmodified, at file, repo, and inter-repo grain.
+
+## First deployment: the Now-pole question on a kernel — 2026-07-06
+
+**Context:** A design sitting on the scher kernel (Rust, live), two bodies on one
+question (gen4 + scher), a mid-sitting ruling from the human director — the practice
+held under all three stresses.
+
+**Finding 1: premise-verification caught hallucination as fact-check, not smoothing.**
+The template's premise-verification clause did real work ad-hoc practice wouldn't have:
+one light's "hallucinated-looking" citations turned out to be a parallel body's mid-sitting
+commit, caught and CONFIRMED by the Recording-Clerk fact-check rather than smoothed over,
+and the numbered-holdout ledger let the convener's ruling SPEND a holdout (H2) by name
+instead of the dissent just evaporating.
+
+**Finding 2: premise-verification made the sitting's decisive discovery for free.**
+The skill's mandatory premise-verification made what ad-hoc practice would have minuted as
+a hallucinating light into a confirmed fact-check and a fifth ministry: a light told to check
+the frame against the corpus found the file had already changed under us mid-sitting, turning
+that discovery into the sitting's shared reason and the work's new north star.
